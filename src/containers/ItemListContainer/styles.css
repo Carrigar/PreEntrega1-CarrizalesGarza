@@ -1,0 +1,7 @@
+.item-list-container {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    background-color: #707070;
+    display: flex;
+    justify-content: center;
+}
